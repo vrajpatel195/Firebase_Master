@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166761062665",
+    "project_id": "fir-master-dfb19",
+    "storage_bucket": "fir-master-dfb19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166761062665:android:d11cfdbfe91fe4d3fcf3d8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxds59mWwBwN7907Gh7i-sQ3__8Tu_4uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
